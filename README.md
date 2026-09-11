@@ -1,4 +1,4 @@
-# I turn complex technical challenges into production-ready systems.
+# I turn complex technical challenges into prod-ready systems
 
 I have 17 years of software engineering experience. I spent the first
 decade of my career building web and hybrid mobile applications.
@@ -8,6 +8,6 @@ For the past 9 years, my focus has shifted toward cloud infrastructure, Machine 
 Today, I combine hands-on engineering, technical leadership and end-to-end
 delivery to help teams design, rescue and ship reliable systems.
 
-🟢 Available for remote contract opportunities
-📍 Based in France · Working internationally
-📩 olivier.eeckhoutte@gmail.com or https://www.linkedin.com/in/oliviereeckhoutte/
+🟢 Available for remote contract opportunities<br>
+📍 Based in France · Working internationally<br>
+📩 [olivier.eeckhoutte@gmail.com](mailto:olivier.eeckhoutte@gmail.com) or [LinkedIn](https://www.linkedin.com/in/oliviereeckhoutte/)
